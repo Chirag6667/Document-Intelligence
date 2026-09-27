@@ -1,4 +1,4 @@
-hi# Document Intelligence
+# Document Intelligence
 
 A document question-and-answer application. Upload a TXT, Markdown, or PDF file, then ask questions answered from the document's indexed content.
 
